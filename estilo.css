@@ -42,7 +42,7 @@ img {
   width: 550px;
 }
 
-#caixa {
+#email {
   display: inline-block;
   padding: 17px;
   margin-top: 50px;
@@ -105,7 +105,7 @@ img {
     font-size: 16px;
   }
 
-  #caixa {
+  #email {
     display: inline-block;
     padding: 10px;
     margin-top: 50px;
@@ -125,3 +125,4 @@ img {
     top: 1px;
   }
 }
+
